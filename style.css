@@ -24,7 +24,7 @@ body{
     height: 105px;
     background: #fff;
     padding: 28px 32px;
-    overflow: auto;
+    overflow: hidden;
     border-radius: 18px;
     font-family: Agbalumo;
     transition: 0.6s ease-out;
